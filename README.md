@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MattBGP
 - 👀 I’m interested in Networking, Low Level Programming, Bot Protection
 - 🌱 I’m currently learning BGP
-- 💞️ I’m looking to collaborate on PipeCDN, Upstream-Abuse
+- 💞️ I’m currently working on PipeCDN, Upstream-Abuse
 - 📫 How to reach me [Discord](https://lookup.guru/1026100758908768346)
 
 <!---
